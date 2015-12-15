@@ -1,0 +1,10 @@
+Maybe someone would want to present it at some future lab meeting? The
+algorithm is very simple but effective.
+http://www.dtic.upf.edu/~hgeffner/Tomas-GIGA-Workshop-IJCAI-2015.pdf
+
+-- 
+Julian Togelius
+Associate Professor, New York University
+Department of Computer Science and Engineering
+mail: julian@togelius.com, web: http://julian.togelius.com
+
